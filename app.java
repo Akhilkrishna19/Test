@@ -3,3 +3,10 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+
+public class Solution {
+    public static int calculateSum(int number) {
+        
+    }
+}
