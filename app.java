@@ -22,3 +22,10 @@ public class Solution {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+
+
+public class Solution {
+    public static int calculateSum(int number) {
+        
+    }
+}
